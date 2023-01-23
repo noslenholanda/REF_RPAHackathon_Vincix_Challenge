@@ -1,8 +1,9 @@
 {
-  "name": "rpa-template",
-  "description": "TesteGit",
+  "name": "REF_RPAHackathon_Vincix_Challenge",
+  "description": "São 20 rodadas: 7 campos de entrada mudarão de posição na tela após cada envio e haverá alguns pop-ups aleatórios com instruções para clicar em um botão. Bot tem que lidar com a mudança de posição do campo e o Popup",
   "main": "Main.xaml",
   "dependencies": {
+    "RPAToolkit": "[1.1.8]",
     "UiPath.Excel.Activities": "[2.16.0]",
     "UiPath.System.Activities": "[22.10.3]",
     "UiPath.Testing.Activities": "[22.10.0]",
