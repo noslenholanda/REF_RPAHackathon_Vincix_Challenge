@@ -6,7 +6,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>739,954</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>744,954</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>Main2_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -81,7 +81,7 @@
       <AssemblyReference>System.Windows.Forms</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <StateMachine InitialState="{x:Reference __ReferenceID3}" sap2010:Annotation.AnnotationText="Inicia todo o fluxo que cumpre o Vincix Challenge Lv.01&#xD;&#xA;&#xA;Pré: &#xD;&#xA;- Ter o navegador Google Chrome instalado;&#xD;&#xA;- Ter a extensão UiPath Automation para guias anônimas ativada;&#xA;- Definir no orquestrador um 'Asset' com credenciais do Vincix Group  conforme listado no  arquivo 'Data\Config.xlsx'&#xD;&#xA;&#xD;&#xA;Pós:&#xD;&#xA;- Vincix Challenge Lv.01 concluído com 100% de sucesso;" DisplayName="General Business Process" sap:VirtualizedContainerService.HintSize="687,889" sap2010:WorkflowViewState.IdRef="StateMachine_1">
+  <StateMachine InitialState="{x:Reference __ReferenceID3}" sap2010:Annotation.AnnotationText="Inicia todo o fluxo que cumpre o Vincix Challenge Lv.01&#xA;&#xA;Pré: &#xA;- Ter o navegador Google Chrome instalado;&#xA;- Ter a extensão UiPath Automation para guias anônimas ativada;&#xA;- Definir no orquestrador um 'Asset' com credenciais do Vincix Group  conforme listado no  arquivo 'Data\Config.xlsx'&#xA;&#xA;Pós:&#xA;- Vincix Challenge Lv.01 concluído com 100% de sucesso;" DisplayName="REF_RPAHackathon_Vincix_Challenge" sap:VirtualizedContainerService.HintSize="687,889" sap2010:WorkflowViewState.IdRef="StateMachine_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
