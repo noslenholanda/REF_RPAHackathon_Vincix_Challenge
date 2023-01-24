@@ -81,7 +81,7 @@
       <AssemblyReference>System.Windows.Forms</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <StateMachine InitialState="{x:Reference __ReferenceID3}" sap2010:Annotation.AnnotationText="Inicia todo o fluxo que cumpre o Vincix Challenge Lv.01&#xA;&#xA;Pré: &#xA;- Ter o navegador Google Chrome instalado;&#xA;- Ter a extensão UiPath Automation para guias anônimas ativada;&#xA;- Definir no orquestrador um 'Asset' com credenciais do Vincix Group  conforme listado no  arquivo 'Data\Config.xlsx'&#xA;&#xA;Pós:&#xA;- Vincix Challenge Lv.01 concluído com 100% de sucesso;" DisplayName="REF_RPAHackathon_Vincix_Challenge" sap:VirtualizedContainerService.HintSize="687,889" sap2010:WorkflowViewState.IdRef="StateMachine_1">
+  <StateMachine InitialState="{x:Reference __ReferenceID3}" sap2010:Annotation.AnnotationText="Inicia todo o fluxo que cumpre o Vincix Challenge Lv.01&#xA;&#xA;Pré: &#xA;- Ter o navegador Google Chrome instalado;&#xA;- Ter a extensão UiPath Automation para guias anônimas ativada;&#xA;- Ajustar arquivo de configuração 'Data\Config.xlsx' conforme os parâmetros do usuário;&#xD;&#xA;&#xA;Pós:&#xA;- Vincix Challenge Lv.01 concluído com 100% de sucesso;" DisplayName="REF_RPAHackathon_Vincix_Challenge" sap:VirtualizedContainerService.HintSize="687,889" sap2010:WorkflowViewState.IdRef="StateMachine_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
