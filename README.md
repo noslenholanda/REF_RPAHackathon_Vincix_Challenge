@@ -7,7 +7,8 @@
  - Trata os dados para leitura;
  - Insere os dados em fila do Orquestrador;
  - Processa os dados nos campos do formulário solucionando as perguntas das janelas pop-up que eventualmente aparecerão;
- - Efetua logout do sistema web Vincix Group e encerra o navegador;
+ - Efetua logout do sistema web Vincix Group;
+ - Encerra o navegador;
 
 ## Instruções:
 
