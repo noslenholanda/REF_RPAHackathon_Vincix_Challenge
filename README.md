@@ -12,7 +12,8 @@
 ## Instruções:
 
 - Criar um fluxo de trabalho que insira dados de uma planilha nos campos do formulário na tela;
-- Os campos mudarão de posição na tela após cada envio ao longo de 10 rodadas, portanto, o fluxo de trabalho deve identificar corretamente onde cada registro da planilha deve ser digitado todas as vezes;
+- Os campos mudarão de posição na tela após cada envio ao longo de 10 rodadas, portanto;
+- O fluxo deve identificar corretamente onde cada registro da planilha deve ser digitado todas as vezes;
 
 ## Requisitos:
 
